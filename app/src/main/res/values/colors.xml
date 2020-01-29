@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#46b3e6</color>
+    <color name="colorPrimaryDark">#4d80e4</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="car">#dff6f0</color>
+    <color name="bag">#eafbea</color>
+    <color name= "toolb">#fff</color>
+
+</resources>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">LatestSenatorProj</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">email</string>
+    <string name="phonenumber">phoneNumber</string>
+    <string name="name">name</string>
+
+    <string name="new_message_notification_title_template">New message: %1$s</string>
+
+    <!-- TODO: remove this placeholder text -->
+    <string name="new_message_notification_placeholder_text_template">You said %1$s and lorem ipsum
+        dolor sit amet, consectetur adipiscing elit. Etiam non enim magna. Morbi dictum, velit vel
+        semper venenatis, magna odio volutpat velit, at ullamcorper nulla lacus sed turpis.
+        Pellentesque vitae metus elit, nec tincidunt tellus. Integer sed nisl sem, ullamcorper
+        ornare lacus. Duis ac mauris sed massa congue volutpat. Donec sed erat sit amet turpis
+        viverra rhoncus sit amet nec magna. Donec lacinia ligula at libero volutpat volutpat nec nec
+        tortor.
+    </string>
+
+    <string name="action_share">Share</string>
+    <string name="action_reply">Reply</string>
+    <string name="proceed_payment">PROCEED PAYMENT</string>
+    <string name="delivery_address">Delivery Address</string>
+    <string name="flat_no_404_skyline_apartments_vizag_500576">Flat No 404, Skyline Apartments, Vizag - 500576</string>
+    <string name="paneer_tikka_1x2">Paneer Tikka 1x2</string>
+    <string name="chicken_fried_rice_1x1">Chicken Fried Rice 1x1</string>
+    <string name="_435_00">₹435.00</string>
+    <string name="order_details">Order Details</string>
+</resources>
